@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-image: url(../../images/bg1.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.header{
+    background-image: url(../../images/bg-header.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 2.8%;
+    font-size: bold;
+}
+
+.header h1{
+    padding: 1.5%;
+}
+
+#menu{
+    padding: 1%;
+}
+
+#logo-happy{
+    width: 60px;
+
+}
+
+.dados-paciente{
+    padding: 5%;
+}
+
+.plano1{
+    padding: 1%;
+}
+.plano2{
+    padding-bottom: 7%;
+}
+.footer{
+    background-image: url('../../images/bg1.jpg');
+    background-position: center;
+}
